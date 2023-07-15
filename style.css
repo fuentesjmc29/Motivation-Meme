@@ -1,13 +1,13 @@
 html {
     background-color: black;
+    color: white;
+    text-align: center;
 }
 div {
     width: 400px;
     margin: auto;
-    margin-top: 50px;
-    background-color: black;
-    color: white;
-    text-align: center;
+    margin-top: 20px;
+
 }
 img {
     border: 5px solid white;
@@ -21,8 +21,26 @@ h1 {
     text-transform: uppercase;
 }
 
-p {
+body p {
     font-family: 'Inconsolata', monospace;
     width: 300px;
     margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+hr {
+    border: 0.5px solid white;
+}
+
+footer {
+    font-size: 12px;
+    padding: 10px;
+}
+
+#link {
+    margin-bottom: 20px;
 }
