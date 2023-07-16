@@ -1,1 +1,1 @@
-# Motivation-Meme
+# Word of God
